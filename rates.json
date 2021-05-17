@@ -1,0 +1,272 @@
+[
+    {
+        "code": "CZK",
+        "nominal": "1",
+        "name": "Çexiya kronu",
+        "value": "0.0780"
+    },
+    {
+        "code": "IRR",
+        "nominal": "100",
+        "name": "İran rialı",
+        "value": "0.0043"
+    },
+    {
+        "code": "KRW",
+        "nominal": "100",
+        "name": "Cənubi Korea vonu",
+        "value": "0.1545"
+    },
+    {
+        "code": "TMT",
+        "nominal": "1",
+        "name": "Yeni türkmən manatı",
+        "value": "0.4858"
+    },
+    {
+        "code": "RUB",
+        "nominal": "1",
+        "name": "Rusiya rublu",
+        "value": "0.0287"
+    },
+    {
+        "code": "GEL",
+        "nominal": "1",
+        "name": "Gürcü larisi",
+        "value": "0.6280"
+    },
+    {
+        "code": "NZD",
+        "nominal": "1",
+        "name": "Yeni Zelandiya dolları",
+        "value": "1.1592"
+    },
+    {
+        "code": "KZT",
+        "nominal": "1",
+        "name": "Qazaxıstan tengəsi",
+        "value": "0.0051"
+    },
+    {
+        "code": "NOK",
+        "nominal": "1",
+        "name": "Norveç kronu",
+        "value": "0.2057"
+    },
+    {
+        "code": "GBP",
+        "nominal": "1",
+        "name": "İngilis funt sterlinqi",
+        "value": "2.2440"
+    },
+    {
+        "code": "BYN",
+        "nominal": "1",
+        "name": "Belarus rublu",
+        "value": "0.8496"
+    },
+    {
+        "code": "TRY",
+        "nominal": "1",
+        "name": "Türk lirəsi",
+        "value": "0.4395"
+    },
+    {
+        "code": "EGP",
+        "nominal": "1",
+        "name": "Misir funtu",
+        "value": "0.0963"
+    },
+    {
+        "code": "LBP",
+        "nominal": "100",
+        "name": "Livan funtu",
+        "value": "0.1127"
+    },
+    {
+        "code": "KWD",
+        "nominal": "1",
+        "name": "Küveyt dinarı",
+        "value": "5.6270"
+    },
+    {
+        "code": "UZS",
+        "nominal": "100",
+        "name": "Özbək somu",
+        "value": "0.0211"
+    },
+    {
+        "code": "SEK",
+        "nominal": "1",
+        "name": "İsveç kronu",
+        "value": "0.2015"
+    },
+    {
+        "code": "CNY",
+        "nominal": "1",
+        "name": "Çin yuanı",
+        "value": "0.2562"
+    },
+    {
+        "code": "TWD",
+        "nominal": "1",
+        "name": "Tayvan dolları",
+        "value": "0.0565"
+    },
+    {
+        "code": "CLP",
+        "nominal": "100",
+        "name": "Çili pesosu",
+        "value": "0.2713"
+    },
+    {
+        "code": "IDR",
+        "nominal": "100",
+        "name": "İndoneziya rupiası",
+        "value": "0.0126"
+    },
+    {
+        "code": "INR",
+        "nominal": "1",
+        "name": "Hindistan rupisi",
+        "value": "0.0261"
+    },
+    {
+        "code": "KGS",
+        "nominal": "1",
+        "name": "Qırğız somu",
+        "value": "0.0244"
+    },
+    {
+        "code": "CAD",
+        "nominal": "1",
+        "name": "Kanada dolları",
+        "value": "1.3294"
+    },
+    {
+        "code": "MYR",
+        "nominal": "1",
+        "name": "Malayziya rinqqiti",
+        "value": "0.4090"
+    },
+    {
+        "code": "TJS",
+        "nominal": "1",
+        "name": "Tacik somonisi",
+        "value": "0.1927"
+    },
+    {
+        "code": "MDL",
+        "nominal": "1",
+        "name": "Moldova leyi",
+        "value": "0.0968"
+    },
+    {
+        "code": "ILS",
+        "nominal": "1",
+        "name": "İsrail şekeli",
+        "value": "0.4837"
+    },
+    {
+        "code": "SGD",
+        "nominal": "1",
+        "name": "Sinqapur dolları",
+        "value": "1.2527"
+    },
+    {
+        "code": "SDR",
+        "nominal": "1",
+        "name": "SDR (BVF-nun xüsusi borcalma hüquqları)",
+        "value": "2.3989"
+    },
+    {
+        "code": "JPY",
+        "nominal": "100",
+        "name": "Yapon yeni",
+        "value": "1.5176"
+    },
+    {
+        "code": "PLN",
+        "nominal": "1",
+        "name": "Polşa zlotası",
+        "value": "0.4713"
+    },
+    {
+        "code": "AUD",
+        "nominal": "1",
+        "name": "Avstraliya dolları",
+        "value": "1.2845"
+    },
+    {
+        "code": "SAR",
+        "nominal": "1",
+        "name": "Səudiyyə Ərəbistanı rialı",
+        "value": "0.4534"
+    },
+    {
+        "code": "BRL",
+        "nominal": "1",
+        "name": "Braziliya rialı",
+        "value": "0.5220"
+    },
+    {
+        "code": "ARS",
+        "nominal": "1",
+        "name": "Argentina pesosu",
+        "value": "0.0973"
+    },
+    {
+        "code": "UAH",
+        "nominal": "1",
+        "name": "Ukrayna qrivnası",
+        "value": "0.0642"
+    },
+    {
+        "code": "DKK",
+        "nominal": "1",
+        "name": "Danimarka kronu",
+        "value": "0.2680"
+    },
+    {
+        "code": "EUR",
+        "nominal": "1",
+        "name": "Avro",
+        "value": "1.9941"
+    },
+    {
+        "code": "MXN",
+        "nominal": "1",
+        "name": "Meksika pesosu",
+        "value": "0.0898"
+    },
+    {
+        "code": "ZAR",
+        "nominal": "1",
+        "name": "Cənubi Afrika randı",
+        "value": "0.1211"
+    },
+    {
+        "code": "CHF",
+        "nominal": "1",
+        "name": "İsveçrə frankı",
+        "value": "1.7189"
+    },
+    {
+        "code": "HKD",
+        "nominal": "1",
+        "name": "Honq Konq dolları",
+        "value": "0.2176"
+    },
+    {
+        "code": "AED",
+        "nominal": "1",
+        "name": "BƏƏ dirhəmi",
+        "value": "0.4629"
+    },
+    {
+        "code": "USD",
+        "nominal": "1",
+        "name": "ABŞ dolları",
+        "value": "1.7002"
+    }
+]
