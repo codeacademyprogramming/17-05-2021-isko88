@@ -1,5 +1,11 @@
 [
     {
+        "code": "AZN",
+        "nominal": "1",
+        "name": "Azərbaycan manatı",
+        "value": "1"
+    },
+    {
         "code": "CZK",
         "nominal": "1",
         "name": "Çexiya kronu",
@@ -69,7 +75,7 @@
         "code": "TRY",
         "nominal": "1",
         "name": "Türk lirəsi",
-        "value": "0.4395"
+        "value": "0.20"
     },
     {
         "code": "EGP",
