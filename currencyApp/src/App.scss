@@ -1,0 +1,53 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  background-color: #f1f3f6;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#root {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+.exchanger {
+  background: #f1f3f6;
+  box-shadow: -3px 0px 9px 6px rgba(0,0,0,0.75);
+-webkit-box-shadow: -3px 0px 9px 6px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px 0px 9px 6px rgba(0,0,0,0.75);
+  justify-content: center;
+  border-radius: 14px;
+  padding: 18px 28px;
+  label {
+    display: block;
+    color: #9da5b7;
+  }
+  input,
+  & + button {
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+  }
+  & + button {
+    width: 100%;
+    background-color: #1654f0;
+    color: #fff;
+    padding: 10px;
+  }
+  input {
+    color: #162548;
+    width: 50%;
+    padding: 5px;
+  }
+  img {
+    cursor: pointer;
+  }
+  select {
+    border: none;
+    border-radius: 10px;
+    padding: 0 10px;
+    cursor: pointer;
+  }
+}
